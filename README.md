@@ -1,5 +1,7 @@
 ### Facebook Profile Guard
-* Python Script (soon)
+* Python Script (done)
+* Browser-based Flask Python WebUI (soon)
+* Made with Love using Python.
 
 ### Browser Console:
 ```
