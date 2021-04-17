@@ -51,6 +51,6 @@ if token_id is not None:
 	if req['data']['is_shielded_set']['is_shielded'] == True:
 		print("Profile Guard Activated!")
 	else:
-		print("Profile Guard Deactivated")
+		print("Profile Guard Deactivated!")
 else:
 	print("404")
