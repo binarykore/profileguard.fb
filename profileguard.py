@@ -44,7 +44,6 @@ if token_id is not None:
 	graphql['fb_dtsg'] = token_id
 	graphql['__user'] = account_id
 	graphql['__a'] = '1'
-	#graphql['variables'] = '{"0":{"is_shielded":true,"session_id":"1","actor_id":"100039975033023","client_mutation_id":"1"}}'
 	graphql['variables'] = json.dumps(variables)
 	graphql['doc_id'] = '1477043292367183'
 	req = s.post(urlgraph,data=graphql)
