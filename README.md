@@ -15,4 +15,4 @@
 * https://touch.facebook.com/profile_picture/guard/?entrypoint=timeline_upsell_nux&ref=bookmarks
 
 ### Copyright since ( 2021 )
-( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
+( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
